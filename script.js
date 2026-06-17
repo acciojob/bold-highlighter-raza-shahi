@@ -2,7 +2,7 @@ const strongEle = document.querySelectorAll('strong');
 function highlight() {
     //Write your code here
 	strongEle.forEach(element =>{
-		element.style.color = "rgb(0,28.0)"
+		element.style.color = "rgb(0,128.0)"
 	})
 }
 
